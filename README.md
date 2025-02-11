@@ -16,11 +16,4 @@ Este proyecto es una aplicación web que muestra personajes de Dragon Ball utili
 - **Axios**: Librería para realizar solicitudes HTTP.
 - **CSS**: Para dar estilo a la interfaz.
 
-## Instalación
 
-Sigue estos pasos para ejecutar el proyecto localmente:
-
-1. Clona este repositorio en tu máquina:
-
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
