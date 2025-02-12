@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';  // Asegúrate de que este import esté presente
+import './App.css'; 
 import MostrarPersonajes from './componentes/MostrarPersonajes';
 function App() {
   return (
